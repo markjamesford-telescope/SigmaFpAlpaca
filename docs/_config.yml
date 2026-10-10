@@ -1,0 +1,16 @@
+# GitHub Pages site (Settings > Pages > Deploy from branch: main, folder /docs)
+title: Sigma fp / fp L Alpaca driver
+description: Reliable open-source ASCOM Alpaca camera driver for the SIGMA fp and fp L - NINA, SharpCap, mono and colour bodies
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-titles-from-headings
+relative_links:
+  enabled: true
+  collections: false
+titles_from_headings:
+  enabled: true
+  strip_title: false
+exclude:
+  - conformu/*.json
