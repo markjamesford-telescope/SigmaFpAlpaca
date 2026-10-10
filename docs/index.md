@@ -1,5 +1,3 @@
-# Sigma fp / fp L ASCOM Alpaca driver
-
 **A reliable, open-source camera driver for the SIGMA fp L and fp, built for unattended
 astrophotography with NINA, SharpCap and any ASCOM Alpaca client. Stock colour and
 mono-converted bodies are supported.**
